@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-#A simple functional redux todo list. No CSS done!
+#A simple functional redux todo list.
 =======
-# APP NOT YET DONE. Please dont check
+# APP IS FUNCTIONAL. NO CSS! Enter at your own CSS risk!.
 
 >>>>>>> 88d9a6aa5e6ade6da8785db4a1510c2c02ce4b37
 
