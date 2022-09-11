@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #A simple functional redux todo list. No CSS done!
+=======
+# APP NOT YET DONE. Please dont check
+
+>>>>>>> 88d9a6aa5e6ade6da8785db4a1510c2c02ce4b37
 
 # Getting Started with Create React App
 
